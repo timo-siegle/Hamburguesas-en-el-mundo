@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     // Una instancia de la clase ColeccionDePaises
     let paises = ColeccionDePaises()
     // Una instancia de la clase ColeccionDeHamburguesas
-    let hamburguesas = ColeccionDeHamburguesa()
+    let hamburguesas = ColeccionDeHamburguesas()
     let colores = Colores()
     
     override func viewDidLoad() {

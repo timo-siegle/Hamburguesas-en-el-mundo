@@ -18,7 +18,7 @@ class ColeccionDePaises {
     }
 }
 
-class ColeccionDeHamburguesa {
+class ColeccionDeHamburguesas {
     
     // origen: http://www.topito.com/top-menus-mcdonald-insolite-monde
     let hamburguesas: [String] = ["McPork", "Mega Tomago", "McPaneer", "Les nuggets au brie", "Deluxe Brekkie Roll", "Carbonara Chicken", "German Sausage Chicken", "Samurai Pork Burger", "McKebab", "McRice Burger", "Pasta Zoo", "Laksewrap", "Ebi Filet-O", "McCurry Pan", "Little Chorizo Melt", "Prosperity Burger", "Camembert Premiere", "Gazpacho", "Chocolate and Orange Pie", "McSpaghetti"]
